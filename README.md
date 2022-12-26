@@ -1,4 +1,4 @@
-Project Name - Email-Template---WebOps-HTML
+# Email-Template---WebOps-HTML
 
 Languages used - HTML, CSS, and MJML
 
